@@ -1,4 +1,9 @@
-## Hi there 👋
+Hi there 👋
+
+My name is Charlie Harmon and I am a recent graduate from the University of Wisconsin - Madison with a bachelors degree in Computer Engineering
+
+I like the computer
+
 
 <!--
 **wcharmon/wcharmon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
